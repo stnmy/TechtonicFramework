@@ -1,0 +1,402 @@
+# Diff Summary
+
+Date : 2025-06-26 19:26:32
+
+Directory c:\\Users\\USERAS\\Desktop\\Projects\\CSharp\\PortfolioProject\\TechtonicFramework\\TechtonicFramework
+
+Total : 289 files,  -1367090 codes, -2620 comments, -1440 blanks, all -1371150 lines
+
+[Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)
+
+## Languages
+| language | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| JSON | 1 | -12 | 0 | 0 | -12 |
+| Markdown | 7 | -266 | -7 | -113 | -386 |
+| PowerShell | 10 | -1,168 | -2,490 | -329 | -3,987 |
+| XML | 271 | -1,365,644 | -123 | -998 | -1,366,765 |
+
+## Directories
+| path | files | code | comment | blank | total |
+| :--- | ---: | ---: | ---: | ---: | ---: |
+| . | 289 | -1,367,090 | -2,620 | -1,440 | -1,371,150 |
+| .. | 289 | -1,367,090 | -2,620 | -1,440 | -1,371,150 |
+| ..\\packages | 289 | -1,367,090 | -2,620 | -1,440 | -1,371,150 |
+| ..\\packages\\CloudinaryDotNet.1.27.6 | 4 | -58,461 | 0 | -139 | -58,600 |
+| ..\\packages\\CloudinaryDotNet.1.27.6 (Files) | 1 | -85 | 0 | -34 | -119 |
+| ..\\packages\\CloudinaryDotNet.1.27.6\\lib | 3 | -58,376 | 0 | -105 | -58,481 |
+| ..\\packages\\CloudinaryDotNet.1.27.6\\lib\\net452 | 1 | -19,457 | 0 | -35 | -19,492 |
+| ..\\packages\\CloudinaryDotNet.1.27.6\\lib\\netstandard1.3 | 1 | -19,457 | 0 | -35 | -19,492 |
+| ..\\packages\\CloudinaryDotNet.1.27.6\\lib\\netstandard2.0 | 1 | -19,462 | 0 | -35 | -19,497 |
+| ..\\packages\\EntityFramework.6.5.1 | 23 | -161,790 | -2,093 | -954 | -164,837 |
+| ..\\packages\\EntityFramework.6.5.1 (Files) | 1 | -19 | 0 | -16 | -35 |
+| ..\\packages\\EntityFramework.6.5.1\\build | 5 | -109 | -28 | -38 | -175 |
+| ..\\packages\\EntityFramework.6.5.1\\build (Files) | 3 | -100 | -28 | -36 | -164 |
+| ..\\packages\\EntityFramework.6.5.1\\buildTransitive | 4 | -12 | 0 | -4 | -16 |
+| ..\\packages\\EntityFramework.6.5.1\\buildTransitive (Files) | 2 | -6 | 0 | -2 | -8 |
+| ..\\packages\\EntityFramework.6.5.1\\buildTransitive\\net6.0 | 2 | -6 | 0 | -2 | -8 |
+| ..\\packages\\EntityFramework.6.5.1\\build\\net6.0 | 2 | -9 | 0 | -2 | -11 |
+| ..\\packages\\EntityFramework.6.5.1\\lib | 6 | -160,634 | 0 | -621 | -161,255 |
+| ..\\packages\\EntityFramework.6.5.1\\lib\\net40 | 2 | -48,627 | 0 | -195 | -48,822 |
+| ..\\packages\\EntityFramework.6.5.1\\lib\\net45 | 2 | -56,085 | 0 | -213 | -56,298 |
+| ..\\packages\\EntityFramework.6.5.1\\lib\\netstandard2.1 | 2 | -55,922 | 0 | -213 | -56,135 |
+| ..\\packages\\EntityFramework.6.5.1\\tools | 7 | -1,016 | -2,065 | -275 | -3,356 |
+| ..\\packages\\EntityFramework.6.5.1\\tools (Files) | 6 | -1,004 | -2,065 | -275 | -3,344 |
+| ..\\packages\\EntityFramework.6.5.1\\tools\\net6.0 | 1 | -12 | 0 | 0 | -12 |
+| ..\\packages\\EntityFramework.6.5.1\\tools\\net6.0\\any | 1 | -12 | 0 | 0 | -12 |
+| ..\\packages\\Microsoft.AspNet.Identity.Core.2.2.4 | 1 | -2,740 | 0 | -1 | -2,741 |
+| ..\\packages\\Microsoft.AspNet.Identity.Core.2.2.4\\lib | 1 | -2,740 | 0 | -1 | -2,741 |
+| ..\\packages\\Microsoft.AspNet.Identity.Core.2.2.4\\lib\\net45 | 1 | -2,740 | 0 | -1 | -2,741 |
+| ..\\packages\\Microsoft.AspNet.Identity.EntityFramework.2.2.4 | 1 | -1,064 | 0 | -1 | -1,065 |
+| ..\\packages\\Microsoft.AspNet.Identity.EntityFramework.2.2.4\\lib | 1 | -1,064 | 0 | -1 | -1,065 |
+| ..\\packages\\Microsoft.AspNet.Identity.EntityFramework.2.2.4\\lib\\net45 | 1 | -1,064 | 0 | -1 | -1,065 |
+| ..\\packages\\Microsoft.AspNet.Identity.Owin.2.2.4 | 1 | -642 | 0 | -1 | -643 |
+| ..\\packages\\Microsoft.AspNet.Identity.Owin.2.2.4\\lib | 1 | -642 | 0 | -1 | -643 |
+| ..\\packages\\Microsoft.AspNet.Identity.Owin.2.2.4\\lib\\net45 | 1 | -642 | 0 | -1 | -643 |
+| ..\\packages\\Microsoft.AspNet.Mvc.5.3.0 | 1 | -11,485 | 0 | 0 | -11,485 |
+| ..\\packages\\Microsoft.AspNet.Mvc.5.3.0\\lib | 1 | -11,485 | 0 | 0 | -11,485 |
+| ..\\packages\\Microsoft.AspNet.Mvc.5.3.0\\lib\\net45 | 1 | -11,485 | 0 | 0 | -11,485 |
+| ..\\packages\\Microsoft.AspNet.Razor.3.3.0 | 1 | -5,742 | 0 | 0 | -5,742 |
+| ..\\packages\\Microsoft.AspNet.Razor.3.3.0\\lib | 1 | -5,742 | 0 | 0 | -5,742 |
+| ..\\packages\\Microsoft.AspNet.Razor.3.3.0\\lib\\net45 | 1 | -5,742 | 0 | 0 | -5,742 |
+| ..\\packages\\Microsoft.AspNet.Web.Optimization.1.1.3 | 1 | -666 | 0 | 0 | -666 |
+| ..\\packages\\Microsoft.AspNet.Web.Optimization.1.1.3\\lib | 1 | -666 | 0 | 0 | -666 |
+| ..\\packages\\Microsoft.AspNet.Web.Optimization.1.1.3\\lib\\net40 | 1 | -666 | 0 | 0 | -666 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Client.5.2.9 | 3 | -10,144 | 0 | -2 | -10,146 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Client.5.2.9\\lib | 3 | -10,144 | 0 | -2 | -10,146 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Client.5.2.9\\lib\\net45 | 1 | -2,094 | 0 | 0 | -2,094 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Client.5.2.9\\lib\\netstandard2.0 | 1 | -4,025 | 0 | -1 | -4,026 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Client.5.2.9\\lib\\portable-wp8+netcore45+net45+wp81+wpa81 | 1 | -4,025 | 0 | -1 | -4,026 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Core.5.2.9 | 1 | -6,664 | 0 | 0 | -6,664 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Core.5.2.9\\lib | 1 | -6,664 | 0 | 0 | -6,664 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Core.5.2.9\\lib\\net45 | 1 | -6,664 | 0 | 0 | -6,664 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Cors.5.2.9 | 1 | -179 | 0 | 0 | -179 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Cors.5.2.9\\lib | 1 | -179 | 0 | 0 | -179 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Cors.5.2.9\\lib\\net45 | 1 | -179 | 0 | 0 | -179 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Cors.5.3.0 | 1 | -179 | 0 | 0 | -179 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Cors.5.3.0\\lib | 1 | -179 | 0 | 0 | -179 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Cors.5.3.0\\lib\\net45 | 1 | -179 | 0 | 0 | -179 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Owin.5.2.9 | 1 | -195 | 0 | 0 | -195 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Owin.5.2.9\\lib | 1 | -195 | 0 | 0 | -195 |
+| ..\\packages\\Microsoft.AspNet.WebApi.Owin.5.2.9\\lib\\net45 | 1 | -195 | 0 | 0 | -195 |
+| ..\\packages\\Microsoft.AspNet.WebApi.WebHost.5.2.9 | 1 | -135 | 0 | 0 | -135 |
+| ..\\packages\\Microsoft.AspNet.WebApi.WebHost.5.2.9\\lib | 1 | -135 | 0 | 0 | -135 |
+| ..\\packages\\Microsoft.AspNet.WebApi.WebHost.5.2.9\\lib\\net45 | 1 | -135 | 0 | 0 | -135 |
+| ..\\packages\\Microsoft.AspNet.WebApi.WebHost.5.3.0 | 1 | -135 | 0 | 0 | -135 |
+| ..\\packages\\Microsoft.AspNet.WebApi.WebHost.5.3.0\\lib | 1 | -135 | 0 | 0 | -135 |
+| ..\\packages\\Microsoft.AspNet.WebApi.WebHost.5.3.0\\lib\\net45 | 1 | -135 | 0 | 0 | -135 |
+| ..\\packages\\Microsoft.AspNet.WebPages.3.3.0 | 4 | -3,897 | 0 | 0 | -3,897 |
+| ..\\packages\\Microsoft.AspNet.WebPages.3.3.0\\lib | 4 | -3,897 | 0 | 0 | -3,897 |
+| ..\\packages\\Microsoft.AspNet.WebPages.3.3.0\\lib\\net45 | 4 | -3,897 | 0 | 0 | -3,897 |
+| ..\\packages\\Microsoft.AspNetCore.Cors.2.3.0 | 1 | -551 | 0 | -1 | -552 |
+| ..\\packages\\Microsoft.AspNetCore.Cors.2.3.0\\lib | 1 | -551 | 0 | -1 | -552 |
+| ..\\packages\\Microsoft.AspNetCore.Cors.2.3.0\\lib\\netstandard2.0 | 1 | -551 | 0 | -1 | -552 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1 | 12 | -927 | -498 | -74 | -1,499 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\\build | 4 | -228 | 0 | -4 | -232 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\\build\\net45 | 2 | -114 | 0 | -2 | -116 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\\build\\net46 | 2 | -114 | 0 | -2 | -116 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\\lib | 1 | -67 | 0 | -1 | -68 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\\lib\\net45 | 1 | -67 | 0 | -1 | -68 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\\tools | 7 | -632 | -498 | -69 | -1,199 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\\tools\\Roslyn45 | 2 | -258 | -12 | -19 | -289 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\\tools\\RoslynLatest | 3 | -307 | -83 | -32 | -422 |
+| ..\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\\tools\\net45 | 2 | -67 | -403 | -18 | -488 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0 | 8 | -2,263 | -7 | -33 | -2,303 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0 (Files) | 1 | -50 | -7 | -26 | -83 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0\\buildTransitive | 2 | -12 | 0 | -2 | -14 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0\\buildTransitive\\net461 | 1 | -6 | 0 | -1 | -7 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0\\buildTransitive\\netcoreapp2.0 | 1 | -6 | 0 | -1 | -7 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0\\lib | 5 | -2,201 | 0 | -5 | -2,206 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0\\lib\\net462 | 1 | -534 | 0 | -1 | -535 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0\\lib\\net6.0 | 1 | -425 | 0 | -1 | -426 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0\\lib\\net7.0 | 1 | -354 | 0 | -1 | -355 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0\\lib\\net8.0 | 1 | -354 | 0 | -1 | -355 |
+| ..\\packages\\Microsoft.Extensions.Configuration.Abstractions.8.0.0\\lib\\netstandard2.0 | 1 | -534 | 0 | -1 | -535 |
+| ..\\packages\\Microsoft.Owin.4.2.2 | 1 | -3,298 | 0 | -19 | -3,317 |
+| ..\\packages\\Microsoft.Owin.4.2.2\\lib | 1 | -3,298 | 0 | -19 | -3,317 |
+| ..\\packages\\Microsoft.Owin.4.2.2\\lib\\net45 | 1 | -3,298 | 0 | -19 | -3,317 |
+| ..\\packages\\Microsoft.Owin.Cors.4.2.2 | 1 | -96 | 0 | -1 | -97 |
+| ..\\packages\\Microsoft.Owin.Cors.4.2.2\\lib | 1 | -96 | 0 | -1 | -97 |
+| ..\\packages\\Microsoft.Owin.Cors.4.2.2\\lib\\net45 | 1 | -96 | 0 | -1 | -97 |
+| ..\\packages\\Microsoft.Owin.Host.SystemWeb.4.2.2 | 1 | -635 | 0 | -5 | -640 |
+| ..\\packages\\Microsoft.Owin.Host.SystemWeb.4.2.2\\lib | 1 | -635 | 0 | -5 | -640 |
+| ..\\packages\\Microsoft.Owin.Host.SystemWeb.4.2.2\\lib\\net45 | 1 | -635 | 0 | -5 | -640 |
+| ..\\packages\\Microsoft.Owin.Security.4.2.2 | 1 | -493 | 0 | -2 | -495 |
+| ..\\packages\\Microsoft.Owin.Security.4.2.2\\lib | 1 | -493 | 0 | -2 | -495 |
+| ..\\packages\\Microsoft.Owin.Security.4.2.2\\lib\\net45 | 1 | -493 | 0 | -2 | -495 |
+| ..\\packages\\Microsoft.Owin.Security.Cookies.4.2.2 | 1 | -548 | 0 | -4 | -552 |
+| ..\\packages\\Microsoft.Owin.Security.Cookies.4.2.2\\lib | 1 | -548 | 0 | -4 | -552 |
+| ..\\packages\\Microsoft.Owin.Security.Cookies.4.2.2\\lib\\net45 | 1 | -548 | 0 | -4 | -552 |
+| ..\\packages\\Microsoft.Owin.Security.OAuth.3.0.1 | 1 | -1,637 | 0 | -1 | -1,638 |
+| ..\\packages\\Microsoft.Owin.Security.OAuth.3.0.1\\lib | 1 | -1,637 | 0 | -1 | -1,638 |
+| ..\\packages\\Microsoft.Owin.Security.OAuth.3.0.1\\lib\\net45 | 1 | -1,637 | 0 | -1 | -1,638 |
+| ..\\packages\\Newtonsoft.Json.13.0.3 | 10 | -85,995 | 0 | -31 | -86,026 |
+| ..\\packages\\Newtonsoft.Json.13.0.3 (Files) | 2 | -72 | 0 | -21 | -93 |
+| ..\\packages\\Newtonsoft.Json.13.0.3\\lib | 8 | -85,923 | 0 | -10 | -85,933 |
+| ..\\packages\\Newtonsoft.Json.13.0.3\\lib\\net20 | 1 | -10,393 | 0 | -1 | -10,394 |
+| ..\\packages\\Newtonsoft.Json.13.0.3\\lib\\net35 | 1 | -9,541 | 0 | -1 | -9,542 |
+| ..\\packages\\Newtonsoft.Json.13.0.3\\lib\\net40 | 1 | -9,741 | 0 | -1 | -9,742 |
+| ..\\packages\\Newtonsoft.Json.13.0.3\\lib\\net45 | 1 | -11,363 | 0 | -1 | -11,364 |
+| ..\\packages\\Newtonsoft.Json.13.0.3\\lib\\net6.0 | 1 | -11,325 | 0 | -1 | -11,326 |
+| ..\\packages\\Newtonsoft.Json.13.0.3\\lib\\netstandard1.0 | 1 | -11,050 | 0 | -2 | -11,052 |
+| ..\\packages\\Newtonsoft.Json.13.0.3\\lib\\netstandard1.3 | 1 | -11,172 | 0 | -2 | -11,174 |
+| ..\\packages\\Newtonsoft.Json.13.0.3\\lib\\netstandard2.0 | 1 | -11,338 | 0 | -1 | -11,339 |
+| ..\\packages\\Newtonsoft.Json.Bson.1.0.2 | 4 | -1,651 | 0 | -8 | -1,659 |
+| ..\\packages\\Newtonsoft.Json.Bson.1.0.2 (Files) | 1 | -16 | 0 | -5 | -21 |
+| ..\\packages\\Newtonsoft.Json.Bson.1.0.2\\lib | 3 | -1,635 | 0 | -3 | -1,638 |
+| ..\\packages\\Newtonsoft.Json.Bson.1.0.2\\lib\\net45 | 1 | -545 | 0 | -1 | -546 |
+| ..\\packages\\Newtonsoft.Json.Bson.1.0.2\\lib\\netstandard1.3 | 1 | -545 | 0 | -1 | -546 |
+| ..\\packages\\Newtonsoft.Json.Bson.1.0.2\\lib\\netstandard2.0 | 1 | -545 | 0 | -1 | -546 |
+| ..\\packages\\System.Buffers.4.5.1 | 6 | -228 | 0 | 0 | -228 |
+| ..\\packages\\System.Buffers.4.5.1\\lib | 3 | -114 | 0 | 0 | -114 |
+| ..\\packages\\System.Buffers.4.5.1\\lib\\net461 | 1 | -38 | 0 | 0 | -38 |
+| ..\\packages\\System.Buffers.4.5.1\\lib\\netstandard1.1 | 1 | -38 | 0 | 0 | -38 |
+| ..\\packages\\System.Buffers.4.5.1\\lib\\netstandard2.0 | 1 | -38 | 0 | 0 | -38 |
+| ..\\packages\\System.Buffers.4.5.1\\ref | 3 | -114 | 0 | 0 | -114 |
+| ..\\packages\\System.Buffers.4.5.1\\ref\\net45 | 1 | -38 | 0 | 0 | -38 |
+| ..\\packages\\System.Buffers.4.5.1\\ref\\netstandard1.1 | 1 | -38 | 0 | 0 | -38 |
+| ..\\packages\\System.Buffers.4.5.1\\ref\\netstandard2.0 | 1 | -38 | 0 | 0 | -38 |
+| ..\\packages\\System.Data.SqlClient.4.9.0 | 11 | -28,540 | 0 | -117 | -28,657 |
+| ..\\packages\\System.Data.SqlClient.4.9.0 (Files) | 1 | -24 | 0 | -11 | -35 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\buildTransitive | 2 | -12 | 0 | -2 | -14 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\buildTransitive\\net461 | 1 | -6 | 0 | -1 | -7 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\buildTransitive\\netcoreapp2.0 | 1 | -6 | 0 | -1 | -7 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\lib | 4 | -14,252 | 0 | -52 | -14,304 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\lib\\net462 | 1 | -3,563 | 0 | -13 | -3,576 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\lib\\net6.0 | 1 | -3,563 | 0 | -13 | -3,576 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\lib\\net8.0 | 1 | -3,563 | 0 | -13 | -3,576 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\lib\\netstandard2.0 | 1 | -3,563 | 0 | -13 | -3,576 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\runtimes | 4 | -14,252 | 0 | -52 | -14,304 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\runtimes\\unix | 2 | -7,126 | 0 | -26 | -7,152 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\runtimes\\unix\\lib | 2 | -7,126 | 0 | -26 | -7,152 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\runtimes\\unix\\lib\\net6.0 | 1 | -3,563 | 0 | -13 | -3,576 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\runtimes\\unix\\lib\\net8.0 | 1 | -3,563 | 0 | -13 | -3,576 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\runtimes\\win | 2 | -7,126 | 0 | -26 | -7,152 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\runtimes\\win\\lib | 2 | -7,126 | 0 | -26 | -7,152 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\runtimes\\win\\lib\\net6.0 | 1 | -3,563 | 0 | -13 | -3,576 |
+| ..\\packages\\System.Data.SqlClient.4.9.0\\runtimes\\win\\lib\\net8.0 | 1 | -3,563 | 0 | -13 | -3,576 |
+| ..\\packages\\System.IO.4.3.0 | 40 | -86,992 | 0 | 0 | -86,992 |
+| ..\\packages\\System.IO.4.3.0\\ref | 40 | -86,992 | 0 | 0 | -86,992 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50 | 10 | -21,748 | 0 | 0 | -21,748 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50 (Files) | 1 | -2,151 | 0 | 0 | -2,151 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50\\de | 1 | -2,151 | 0 | 0 | -2,151 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50\\es | 1 | -2,090 | 0 | 0 | -2,090 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50\\fr | 1 | -2,201 | 0 | 0 | -2,201 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50\\it | 1 | -2,123 | 0 | 0 | -2,123 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50\\ja | 1 | -2,264 | 0 | 0 | -2,264 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50\\ko | 1 | -2,262 | 0 | 0 | -2,262 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50\\ru | 1 | -2,023 | 0 | 0 | -2,023 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50\\zh-hans | 1 | -2,237 | 0 | 0 | -2,237 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netcore50\\zh-hant | 1 | -2,246 | 0 | 0 | -2,246 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0 | 10 | -21,748 | 0 | 0 | -21,748 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0 (Files) | 1 | -2,151 | 0 | 0 | -2,151 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0\\de | 1 | -2,151 | 0 | 0 | -2,151 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0\\es | 1 | -2,090 | 0 | 0 | -2,090 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0\\fr | 1 | -2,201 | 0 | 0 | -2,201 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0\\it | 1 | -2,123 | 0 | 0 | -2,123 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0\\ja | 1 | -2,264 | 0 | 0 | -2,264 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0\\ko | 1 | -2,262 | 0 | 0 | -2,262 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0\\ru | 1 | -2,023 | 0 | 0 | -2,023 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0\\zh-hans | 1 | -2,237 | 0 | 0 | -2,237 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.0\\zh-hant | 1 | -2,246 | 0 | 0 | -2,246 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3 | 10 | -21,748 | 0 | 0 | -21,748 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3 (Files) | 1 | -2,151 | 0 | 0 | -2,151 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3\\de | 1 | -2,151 | 0 | 0 | -2,151 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3\\es | 1 | -2,090 | 0 | 0 | -2,090 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3\\fr | 1 | -2,201 | 0 | 0 | -2,201 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3\\it | 1 | -2,123 | 0 | 0 | -2,123 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3\\ja | 1 | -2,264 | 0 | 0 | -2,264 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3\\ko | 1 | -2,262 | 0 | 0 | -2,262 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3\\ru | 1 | -2,023 | 0 | 0 | -2,023 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3\\zh-hans | 1 | -2,237 | 0 | 0 | -2,237 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.3\\zh-hant | 1 | -2,246 | 0 | 0 | -2,246 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5 | 10 | -21,748 | 0 | 0 | -21,748 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5 (Files) | 1 | -2,151 | 0 | 0 | -2,151 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5\\de | 1 | -2,151 | 0 | 0 | -2,151 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5\\es | 1 | -2,090 | 0 | 0 | -2,090 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5\\fr | 1 | -2,201 | 0 | 0 | -2,201 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5\\it | 1 | -2,123 | 0 | 0 | -2,123 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5\\ja | 1 | -2,264 | 0 | 0 | -2,264 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5\\ko | 1 | -2,262 | 0 | 0 | -2,262 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5\\ru | 1 | -2,023 | 0 | 0 | -2,023 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5\\zh-hans | 1 | -2,237 | 0 | 0 | -2,237 |
+| ..\\packages\\System.IO.4.3.0\\ref\\netstandard1.5\\zh-hant | 1 | -2,246 | 0 | 0 | -2,246 |
+| ..\\packages\\System.Memory.4.5.3 | 2 | -706 | 0 | -4 | -710 |
+| ..\\packages\\System.Memory.4.5.3\\lib | 2 | -706 | 0 | -4 | -710 |
+| ..\\packages\\System.Memory.4.5.3\\lib\\netstandard1.1 | 1 | -353 | 0 | -2 | -355 |
+| ..\\packages\\System.Memory.4.5.3\\lib\\netstandard2.0 | 1 | -353 | 0 | -2 | -355 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0 | 8 | -20,968 | 0 | 0 | -20,968 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\lib | 4 | -10,484 | 0 | 0 | -10,484 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\lib\\net46 | 1 | -2,621 | 0 | 0 | -2,621 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\lib\\netstandard1.0 | 1 | -2,621 | 0 | 0 | -2,621 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\lib\\netstandard2.0 | 1 | -2,621 | 0 | 0 | -2,621 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\lib\\portable-net45+win8+wp8+wpa81 | 1 | -2,621 | 0 | 0 | -2,621 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\ref | 4 | -10,484 | 0 | 0 | -10,484 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\ref\\net45 | 1 | -2,621 | 0 | 0 | -2,621 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\ref\\net46 | 1 | -2,621 | 0 | 0 | -2,621 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\ref\\netstandard1.0 | 1 | -2,621 | 0 | 0 | -2,621 |
+| ..\\packages\\System.Numerics.Vectors.4.5.0\\ref\\netstandard2.0 | 1 | -2,621 | 0 | 0 | -2,621 |
+| ..\\packages\\System.Runtime.4.3.0 | 50 | -797,335 | 0 | 0 | -797,335 |
+| ..\\packages\\System.Runtime.4.3.0\\ref | 50 | -797,335 | 0 | 0 | -797,335 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50 | 10 | -159,467 | 0 | 0 | -159,467 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50 (Files) | 1 | -15,642 | 0 | 0 | -15,642 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50\\de | 1 | -15,647 | 0 | 0 | -15,647 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50\\es | 1 | -15,620 | 0 | 0 | -15,620 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50\\fr | 1 | -15,856 | 0 | 0 | -15,856 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50\\it | 1 | -15,649 | 0 | 0 | -15,649 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50\\ja | 1 | -16,970 | 0 | 0 | -16,970 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50\\ko | 1 | -16,922 | 0 | 0 | -16,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50\\ru | 1 | -15,262 | 0 | 0 | -15,262 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50\\zh-hans | 1 | -15,922 | 0 | 0 | -15,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netcore50\\zh-hant | 1 | -15,977 | 0 | 0 | -15,977 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0 | 10 | -159,467 | 0 | 0 | -159,467 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0 (Files) | 1 | -15,642 | 0 | 0 | -15,642 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0\\de | 1 | -15,647 | 0 | 0 | -15,647 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0\\es | 1 | -15,620 | 0 | 0 | -15,620 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0\\fr | 1 | -15,856 | 0 | 0 | -15,856 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0\\it | 1 | -15,649 | 0 | 0 | -15,649 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0\\ja | 1 | -16,970 | 0 | 0 | -16,970 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0\\ko | 1 | -16,922 | 0 | 0 | -16,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0\\ru | 1 | -15,262 | 0 | 0 | -15,262 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0\\zh-hans | 1 | -15,922 | 0 | 0 | -15,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.0\\zh-hant | 1 | -15,977 | 0 | 0 | -15,977 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2 | 10 | -159,467 | 0 | 0 | -159,467 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2 (Files) | 1 | -15,642 | 0 | 0 | -15,642 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2\\de | 1 | -15,647 | 0 | 0 | -15,647 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2\\es | 1 | -15,620 | 0 | 0 | -15,620 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2\\fr | 1 | -15,856 | 0 | 0 | -15,856 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2\\it | 1 | -15,649 | 0 | 0 | -15,649 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2\\ja | 1 | -16,970 | 0 | 0 | -16,970 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2\\ko | 1 | -16,922 | 0 | 0 | -16,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2\\ru | 1 | -15,262 | 0 | 0 | -15,262 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2\\zh-hans | 1 | -15,922 | 0 | 0 | -15,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.2\\zh-hant | 1 | -15,977 | 0 | 0 | -15,977 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3 | 10 | -159,467 | 0 | 0 | -159,467 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3 (Files) | 1 | -15,642 | 0 | 0 | -15,642 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3\\de | 1 | -15,647 | 0 | 0 | -15,647 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3\\es | 1 | -15,620 | 0 | 0 | -15,620 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3\\fr | 1 | -15,856 | 0 | 0 | -15,856 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3\\it | 1 | -15,649 | 0 | 0 | -15,649 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3\\ja | 1 | -16,970 | 0 | 0 | -16,970 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3\\ko | 1 | -16,922 | 0 | 0 | -16,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3\\ru | 1 | -15,262 | 0 | 0 | -15,262 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3\\zh-hans | 1 | -15,922 | 0 | 0 | -15,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.3\\zh-hant | 1 | -15,977 | 0 | 0 | -15,977 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5 | 10 | -159,467 | 0 | 0 | -159,467 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5 (Files) | 1 | -15,642 | 0 | 0 | -15,642 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5\\de | 1 | -15,647 | 0 | 0 | -15,647 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5\\es | 1 | -15,620 | 0 | 0 | -15,620 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5\\fr | 1 | -15,856 | 0 | 0 | -15,856 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5\\it | 1 | -15,649 | 0 | 0 | -15,649 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5\\ja | 1 | -16,970 | 0 | 0 | -16,970 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5\\ko | 1 | -16,922 | 0 | 0 | -16,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5\\ru | 1 | -15,262 | 0 | 0 | -15,262 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5\\zh-hans | 1 | -15,922 | 0 | 0 | -15,922 |
+| ..\\packages\\System.Runtime.4.3.0\\ref\\netstandard1.5\\zh-hant | 1 | -15,977 | 0 | 0 | -15,977 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3 | 7 | -1,400 | 0 | 0 | -1,400 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3\\lib | 4 | -800 | 0 | 0 | -800 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3\\lib\\net461 | 1 | -200 | 0 | 0 | -200 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3\\lib\\netcoreapp2.0 | 1 | -200 | 0 | 0 | -200 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3\\lib\\netstandard1.0 | 1 | -200 | 0 | 0 | -200 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3\\lib\\netstandard2.0 | 1 | -200 | 0 | 0 | -200 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3\\ref | 3 | -600 | 0 | 0 | -600 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3\\ref\\net461 | 1 | -200 | 0 | 0 | -200 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3\\ref\\netstandard1.0 | 1 | -200 | 0 | 0 | -200 |
+| ..\\packages\\System.Runtime.CompilerServices.Unsafe.4.5.3\\ref\\netstandard2.0 | 1 | -200 | 0 | 0 | -200 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0 | 10 | -2,112 | 0 | 0 | -2,112 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref | 10 | -2,112 | 0 | 0 | -2,112 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3 | 10 | -2,112 | 0 | 0 | -2,112 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3 (Files) | 1 | -204 | 0 | 0 | -204 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3\\de | 1 | -204 | 0 | 0 | -204 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3\\es | 1 | -202 | 0 | 0 | -202 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3\\fr | 1 | -204 | 0 | 0 | -204 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3\\it | 1 | -204 | 0 | 0 | -204 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3\\ja | 1 | -236 | 0 | 0 | -236 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3\\ko | 1 | -235 | 0 | 0 | -235 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3\\ru | 1 | -197 | 0 | 0 | -197 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3\\zh-hans | 1 | -214 | 0 | 0 | -214 |
+| ..\\packages\\System.Security.Cryptography.Encoding.4.3.0\\ref\\netstandard1.3\\zh-hant | 1 | -212 | 0 | 0 | -212 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0 | 20 | -32,114 | 0 | 0 | -32,114 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref | 20 | -32,114 | 0 | 0 | -32,114 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3 | 10 | -16,057 | 0 | 0 | -16,057 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3 (Files) | 1 | -1,556 | 0 | 0 | -1,556 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3\\de | 1 | -1,558 | 0 | 0 | -1,558 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3\\es | 1 | -1,563 | 0 | 0 | -1,563 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3\\fr | 1 | -1,570 | 0 | 0 | -1,570 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3\\it | 1 | -1,559 | 0 | 0 | -1,559 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3\\ja | 1 | -1,723 | 0 | 0 | -1,723 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3\\ko | 1 | -1,726 | 0 | 0 | -1,726 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3\\ru | 1 | -1,523 | 0 | 0 | -1,523 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3\\zh-hans | 1 | -1,633 | 0 | 0 | -1,633 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.3\\zh-hant | 1 | -1,646 | 0 | 0 | -1,646 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4 | 10 | -16,057 | 0 | 0 | -16,057 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4 (Files) | 1 | -1,556 | 0 | 0 | -1,556 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4\\de | 1 | -1,558 | 0 | 0 | -1,558 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4\\es | 1 | -1,563 | 0 | 0 | -1,563 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4\\fr | 1 | -1,570 | 0 | 0 | -1,570 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4\\it | 1 | -1,559 | 0 | 0 | -1,559 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4\\ja | 1 | -1,723 | 0 | 0 | -1,723 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4\\ko | 1 | -1,726 | 0 | 0 | -1,726 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4\\ru | 1 | -1,523 | 0 | 0 | -1,523 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4\\zh-hans | 1 | -1,633 | 0 | 0 | -1,633 |
+| ..\\packages\\System.Security.Cryptography.X509Certificates.4.3.0\\ref\\netstandard1.4\\zh-hant | 1 | -1,646 | 0 | 0 | -1,646 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1 | 40 | -33,552 | 0 | 0 | -33,552 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref | 40 | -33,552 | 0 | 0 | -33,552 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50 | 10 | -8,388 | 0 | 0 | -8,388 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50 (Files) | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50\\de | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50\\es | 1 | -808 | 0 | 0 | -808 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50\\fr | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50\\it | 1 | -843 | 0 | 0 | -843 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50\\ja | 1 | -864 | 0 | 0 | -864 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50\\ko | 1 | -863 | 0 | 0 | -863 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50\\ru | 1 | -777 | 0 | 0 | -777 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50\\zh-hans | 1 | -849 | 0 | 0 | -849 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netcore50\\zh-hant | 1 | -852 | 0 | 0 | -852 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0 | 10 | -8,388 | 0 | 0 | -8,388 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0 (Files) | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0\\de | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0\\es | 1 | -808 | 0 | 0 | -808 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0\\fr | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0\\it | 1 | -843 | 0 | 0 | -843 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0\\ja | 1 | -864 | 0 | 0 | -864 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0\\ko | 1 | -863 | 0 | 0 | -863 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0\\ru | 1 | -777 | 0 | 0 | -777 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0\\zh-hans | 1 | -849 | 0 | 0 | -849 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.0\\zh-hant | 1 | -852 | 0 | 0 | -852 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3 | 10 | -8,388 | 0 | 0 | -8,388 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3 (Files) | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3\\de | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3\\es | 1 | -808 | 0 | 0 | -808 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3\\fr | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3\\it | 1 | -843 | 0 | 0 | -843 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3\\ja | 1 | -864 | 0 | 0 | -864 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3\\ko | 1 | -863 | 0 | 0 | -863 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3\\ru | 1 | -777 | 0 | 0 | -777 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3\\zh-hans | 1 | -849 | 0 | 0 | -849 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.3\\zh-hant | 1 | -852 | 0 | 0 | -852 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6 | 10 | -8,388 | 0 | 0 | -8,388 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6 (Files) | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6\\de | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6\\es | 1 | -808 | 0 | 0 | -808 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6\\fr | 1 | -844 | 0 | 0 | -844 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6\\it | 1 | -843 | 0 | 0 | -843 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6\\ja | 1 | -864 | 0 | 0 | -864 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6\\ko | 1 | -863 | 0 | 0 | -863 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6\\ru | 1 | -777 | 0 | 0 | -777 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6\\zh-hans | 1 | -849 | 0 | 0 | -849 |
+| ..\\packages\\System.Text.RegularExpressions.4.3.1\\ref\\netstandard1.6\\zh-hant | 1 | -852 | 0 | 0 | -852 |
+| ..\\packages\\System.Threading.Tasks.Extensions.4.5.4 | 4 | -660 | 0 | -4 | -664 |
+| ..\\packages\\System.Threading.Tasks.Extensions.4.5.4\\lib | 4 | -660 | 0 | -4 | -664 |
+| ..\\packages\\System.Threading.Tasks.Extensions.4.5.4\\lib\\net461 | 1 | -165 | 0 | -1 | -166 |
+| ..\\packages\\System.Threading.Tasks.Extensions.4.5.4\\lib\\netstandard1.0 | 1 | -165 | 0 | -1 | -166 |
+| ..\\packages\\System.Threading.Tasks.Extensions.4.5.4\\lib\\netstandard2.0 | 1 | -165 | 0 | -1 | -166 |
+| ..\\packages\\System.Threading.Tasks.Extensions.4.5.4\\lib\\portable-net45+win8+wp8+wpa81 | 1 | -165 | 0 | -1 | -166 |
+| ..\\packages\\Unity.AspNet.WebApi.5.11.2 | 2 | -174 | 0 | -2 | -176 |
+| ..\\packages\\Unity.AspNet.WebApi.5.11.2\\lib | 2 | -174 | 0 | -2 | -176 |
+| ..\\packages\\Unity.AspNet.WebApi.5.11.2\\lib\\net45 | 1 | -87 | 0 | -1 | -88 |
+| ..\\packages\\Unity.AspNet.WebApi.5.11.2\\lib\\net47 | 1 | -87 | 0 | -1 | -88 |
+| ..\\packages\\WebGrease.1.5.2 | 2 | -97 | -22 | -36 | -155 |
+| ..\\packages\\WebGrease.1.5.2\\tools | 2 | -97 | -22 | -36 | -155 |
+
+[Summary](results.md) / [Details](details.md) / Diff Summary / [Diff Details](diff-details.md)
